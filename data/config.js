@@ -59,5 +59,5 @@ export const contact = {
   title: 'Contact Me',
   email: 'atharvaj2160@gmail.com',
   linkedin: 'https://www.linkedin.com/in/arj2160',
-  github: 'https://github.com/ARJ2160'
+  github: 'ARJ2160'
 };
