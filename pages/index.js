@@ -19,7 +19,7 @@ export default function Index() {
         <meta
           name="image"
           property="og:image"
-          content="https://ik.imagekit.io/36athv2v82c8/Screenshot_2022-04-25_205302_QFIT47liX.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650900273891"
+          content="https://ik.imagekit.io/36athv2v82c8/Screenshot_2022-04-27_231006_KGf7zaPGt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651081293876"
         />
         <meta
           name="description"
