@@ -8,7 +8,7 @@ export default function Stack() {
           {stack.title}
         </h2>
       </div>
-      <div className="w-full flex flex-wrap -m-2">
+      <div className="w-full flex flex-wrap -m-2 pointer-events-none">
         {stack.stack.map((item, index) => (
           <span
             className="border  border-lightText rounded-lg m-2 px-3 py-1"
